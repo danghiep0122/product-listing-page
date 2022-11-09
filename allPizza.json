@@ -1,0 +1,182 @@
+[
+    {
+        "id": "p1",
+        "image":
+        "https://img.dominos.vn/pizza-lap-xuong.jpg",
+        "title": "PIZZA LẠP XƯỞNG XỐT TRỨNG MUỐI MAYONNAISE - SAIGON MANIA PIZZA",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food", "pork"]
+    },
+    {
+        "id": "p2",
+        "image":
+        "https://img.dominos.vn/Surf-turf-Pizza-Bo-Tom-Nuong-Kieu-My-1.jpg",
+        "title": "Pizza Bò & Tôm Nướng Kiểu Mỹ - Surf & Turf",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food", "beef"]
+    },
+    {
+        "id": "p3",
+        "image":
+        "https://img.dominos.vn/Okonomiyaki-banh-xeo-nhat.jpg",
+        "title": "Pizza Bánh Xèo Nhật - Okonomiyaki",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food"]
+    },
+    {
+        "id": "p4",
+        "image":
+        "https://img.dominos.vn/Pizza-Thap-Cam-Thuong-Hang-Extravaganza.jpg",
+        "title": "Pizza Thập Cẩm Thượng Hạng - Extravaganza",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["beef", "pork"]
+    },
+    {
+        "id": "p5",
+        "image":
+        "https://img.dominos.vn/Pizza-Hai-San-Xot-Mayonnaise-Ocean-Mania.jpg",
+        "title": "Pizza Hải Sản Xốt Mayonnaise - Ocean Mania",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food"]
+    },
+    {
+        "id": "p6",
+        "image":
+        "https://img.dominos.vn/Pizzaminsea-Hai-San-Nhiet-Doi-Xot-Tieu.jpg",
+        "title": "Pizza Hải Sản Nhiệt Đới  Xốt Tiêu - Pizzamin Sea",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food"]
+    },
+    {
+        "id": "p7",
+        "image":
+        "https://img.dominos.vn/Half-Half.jpg",
+        "title": "Half Half",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food","chicken", "pork"]
+    },
+    {
+        "id": "p8",
+        "image":
+        "https://img.dominos.vn/Meat-lover-Pizza-5-Loai-Thit-Thuong-Hang.jpg",
+        "title": "Pizza 5 Loại Thịt Thượng Hạng - Meat Lovers",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["beef", "pork"]
+    },
+    {
+        "id": "p9",
+        "image":
+        "https://img.dominos.vn/Pepperoni-feast-Pizza-Xuc-Xich-Y.jpg",
+        "title": "Pizza Xúc Xích Ý Truyền Thống - Pepperoni Feast",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["pork"]
+    },
+    {
+        "id": "p10",
+        "image":
+        "https://img.dominos.vn/Pizza-Hai-San-Xot-Ca-Chua-Seafood-Delight.jpg",
+        "title": "Pizza Hải Sản Xốt Cà Chua - Seafood Delight",
+        "price": "99000",
+        "tag" : "premium",
+        "category": ["sea-food"]
+    },
+    {
+        "id": "f1",
+        "image":
+        "https://img.dominos.vn/Sausage-Kid-Mania.jpg",
+        "title": "PIZZA XÚC XÍCH XỐT PHÔ MAI - SAUSAGE KID MANIA",
+        "price": "79000",
+        "tag" : "favorite",
+        "category": ["pork"]
+    },
+    {
+        "id": "f2",
+        "image":
+        "https://img.dominos.vn/Kid-mania-Pizza-Trung-Cut-Xot-Pho-Mai-1.jpg",
+        "title": "Pizza Trứng Cút Xốt Phô Mai - Kid Mania ",
+        "price": "79000",
+        "tag" : "favorite",
+        "category": ["pork"]
+    },
+    {
+        "id": "f3",
+        "image":
+        "https://img.dominos.vn/Veggie-mania-Pizza-Rau-Cu-Thap-Cam.jpg",
+        "title": "Pizza Rau Củ Thập Cẩm - Veggie Mania",
+        "price": "79000",
+        "tag" : "favorite",
+        "category":["vegan"]
+    },
+    {
+        "id": "f4",
+        "image":
+        "https://img.dominos.vn/Pizza-Ga-Xot-Tuong-Kieu-Nhat-Teriyaki-Chicken.jpg",
+        "title": "Pizza Gà Xốt Tương Kiểu Nhật - Teriyaki Chicken",
+        "price": "79000",
+        "tag" : "favorite",
+        "category": ["chicken"]
+    },
+    {
+        "id": "f5",
+        "image":
+        "https://img.dominos.vn/Pizza-Dam-Bong-Dua-Kieu-Hawaii-Hawaiian.jpg",
+        "title": "Pizza Dăm Bông Dứa Kiểu Hawaii - Hawaiian",
+        "price": "79000",
+        "tag" : "favorite",
+        "category":["pork"]
+    },
+    {
+        "id": "f6",
+        "image":
+        "https://img.dominos.vn/Pizza-Pho-Mai-Hao-Hang-Cheese-Mania.jpg",
+        "title": "Pizza Phô Mai Hảo Hạng - Cheese Mania",
+        "price": "79000",
+        "tag" : "favorite",
+        "category":["vegan"]
+    },
+    {
+        "id": "f7",
+        "image":
+        "https://img.dominos.vn/Pizza-Ga-Pho-Mai-Thit-Heo-Xong-Khoi-Cheesy-Chicken-Bacon.jpg",
+        "title": "Pizza Gà Phô Mai Thịt Heo Xông Khói - Cheesy Chicken Bacon",
+        "price": "79000",
+        "tag" : "favorite",
+        "category": ["chicken", "pork"]
+    },
+    {
+        "id": "s1",
+        "image":
+        "https://img.dominos.vn/Pizza-Bo-Me-Hi-Co-Thuong-Hang-Prime-Beef.jpg",
+        "title": "Pizza Bò Mê-Hi-Cô Thượng Hạng - Prime Beef",
+        "price": "249000",
+        "tag" : "signature",
+        "category": ["beef"]
+    },
+    {
+        "id": "s2",
+        "image":
+        "https://img.dominos.vn/Pizza-Hai-San-Kieu-Singapore-Singapore-Style-Seafood.jpg",
+        "title": "Pizza Hải Sản Kiểu Singapore - Singapore Style Seafood",
+        "price": "249000",
+        "tag" : "signature",
+        "category": ["sea-food"]
+    },
+    {
+        "id": "s3",
+        "image":
+        "https://img.dominos.vn/Pizza-4-Vi-Pizza-Big-4.jpg",
+        "title": "Pizza 4 Vị - Pizza Big 4",
+        "price": "329000",
+        "tag" : "signature",
+        "category": ["sea-food","beef", "chicken", "pork"]
+    }
+]
