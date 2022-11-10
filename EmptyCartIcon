@@ -1,0 +1,14 @@
+export const EmptyCartIcon = ({
+  className,
+  height = '440px',
+  width = '440px',
+}) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    className={className}
+    viewBox="0 0 440 440"
+    width={height}
+    height={width}
+    fill="none"
+    xmlnsXlink="http://www.w3.org/1999/xlink"
+  >
